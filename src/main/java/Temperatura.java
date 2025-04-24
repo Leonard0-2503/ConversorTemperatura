@@ -1,6 +1,3 @@
-package poo.conversortemperatura;
-
-
 public class Temperatura {
     //ATRIBUTO PRIVADO PARA ARMAZENAR TEMP- CELSIUS
     private double  tempCelsius;
